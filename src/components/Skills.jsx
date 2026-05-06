@@ -24,7 +24,7 @@ export default function Skills() {
     { name: "Git", slug: "Git", color: "#F05032" },
     { name: "GitHub", slug: "Github", color: "#FFFFFF" },
     { name: "Postman", slug: "Postman", color: "#FF6C37" },
-    { name: "Vercel", slug: "Vercel", color: "#000000" },
+    { name: "Vercel", slug: "Vercel", color: "#ffffff" },
     { name: "Netlify", slug: "Netlify", color: "#00C7B7" },
   ];
 
