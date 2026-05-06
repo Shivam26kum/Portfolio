@@ -59,7 +59,7 @@ const HeroSection = () => {
             
             {/* Social Icons */}
             <motion.div variants={itemVariants} className="flex space-x-6 pt-4 text-2xl text-gray-400">
-              <a href="https://github.com/shivamk2729u" target="_blank" rel="noopener noreferrer" className="hover:-translate-y-1 transition-all duration-300 hover:text-[var(--accent)]"><i className="fab fa-github"></i></a>
+              <a href="https://github.com/Shivam26kum" target="_blank" rel="noopener noreferrer" className="hover:-translate-y-1 transition-all duration-300 hover:text-[var(--accent)]"><i className="fab fa-github"></i></a>
               <a href="https://linkedin.com/in/shivamk2729u" target="_blank" rel="noopener noreferrer" className="hover:-translate-y-1 transition-all duration-300 hover:text-[var(--accent)]"><i className="fab fa-linkedin"></i></a>
             </motion.div>
 
