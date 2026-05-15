@@ -90,7 +90,7 @@ const Contact = () => {
 
   const contactDetails = [
     { icon: "fas fa-envelope", title: "Email", value: "shivamk2729u@gmail.com", link: "mailto:shivamk2729u@gmail.com" },
-    { icon: "fas fa-phone", title: "Phone", value: "+91 99281 73068", link: "tel:+918770619226" },
+    { icon: "fas fa-phone", title: "Phone", value: "+91 99281 73068", link: "tel:+919928173068" },
     { icon: "fas fa-map-marker-alt", title: "Location", value: "Bhagalpur, Bihar, India", link: "https://maps.google.com/?q=Bhagalpur,Bihar,India" }
   ];
 
